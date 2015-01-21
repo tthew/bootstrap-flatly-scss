@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-theme-flatly-scss",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tthew/bootstrap-theme-flatly-scss",
+  "authors": [
+    "Matt Richards <matt@lucidmoon.co.uk>"
+  ],
+  "description": "Flatly theme for Bootstrap by Thomas Park bower component",
+  "keywords": [
+    "bootstrap",
+    "theme",
+    "flatly"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}
